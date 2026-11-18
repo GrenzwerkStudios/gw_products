@@ -5,3 +5,5 @@ changelog:
 - test2
 - test3
 - tEsT10$
+
+https://r2.fivemanage.com/PMz7X2nitW6lqWbYqM4TM/gibis_test02_bus.webp
