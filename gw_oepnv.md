@@ -8,6 +8,7 @@ changelog:
 - Die **Tramstrecke** fa-solid fa-train-tram wird __zeitnah__ veröffentlich, dieses Update macht euch startklar!
 - Anzeigefehler GIBIS Updates behoben
 - App Versionen hinzugefügt
+# Weiteres
 - test1
 - test2
 - test3
