@@ -1,4 +1,4 @@
-# version: 3.0.1
+# version: 3.0.0
 
 changelog:
 - fa-solid fa-wheelchair Rollstuhlfahrer-Rampe nun funktional (abhängig vom Bus)
